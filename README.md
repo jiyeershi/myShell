@@ -1,2 +1,2 @@
 # myShell
-dkj记录自己写的一些shell
+记录自己写的一些shell
